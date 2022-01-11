@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**aigoncharov/aigoncharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:information_source: My name is Andrey G. I am software engineer from London, UK. Primarily, I am a full-stack web developer (think React, Angular, Node.js), but I also have a keen interest in low-level stuff (hello, C!) and finance (love-hate relationship with Pandas).
 
-Here are some ideas to get you started:
+> G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:briefcase: I came from working in two software consultancies on projects of various scales. Headed front-end development at Hazelcast. Contributed to building a next-gen spreadsheet web app at Bricks. Now, I am happy to work full-time on Flipper at Facebook.
+
+:memo: I write about tech in my [small blog](https://blog.goncharov.page/). 
+
+:microphone: Occasionally, I [speak at conferences](https://github.com/aigoncharov/talks).
+
+:mortar_board: I am currently pursuing a Master's in Computer Science (OMSCS) from Georgia Tech.
+
+:heart: I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
+
+:mailbox: Stay in touch on [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [my personal website](https://goncharov.page/).
