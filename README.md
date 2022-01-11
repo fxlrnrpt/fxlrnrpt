@@ -1,6 +1,6 @@
 # Hi there 👋
 
-:information_source: My name is Andrey G. I am software engineer from London, UK. Primarily, I am a full-stack web developer (think React, Angular, Node.js), but I also have a keen interest in low-level stuff (hello, C!) and finance (love-hate relationship with Pandas).
+:information_source: My name is Andrey G. I am software engineer from London, UK. Primarily, I am a full-stack web developer (think React, Angular, Node.js), but I also have a keen interest in low-level stuff (hello, C) and finance (love-hate relationship with Pandas).
 
 > G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
 
