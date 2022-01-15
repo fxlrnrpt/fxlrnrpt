@@ -4,7 +4,7 @@
 
 > G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
 
-:briefcase: I came from working in two software consultancies on projects of various scales. Headed front-end development at Hazelcast. Contributed to building a next-gen spreadsheet web app at Bricks. Now, I am happy to work full-time on Flipper at Facebook.
+:briefcase: I came from working in two software consultancies where I worked on various web, blockchain, and embedded projects. Headed front-end development at Hazelcast. Contributed to building a next-gen spreadsheet web app at Bricks. Now, I am happy to work full-time on Flipper at Facebook.
 
 :memo: I write about tech in my [small blog](https://blog.goncharov.page/). 
 
