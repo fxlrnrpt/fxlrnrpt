@@ -10,7 +10,7 @@
 
 :microphone: Occasionally, I [speak at conferences](https://github.com/aigoncharov/talks).
 
-:mortar_board: I am currently pursuing a Master's in Computer Science (OMSCS) from Georgia Tech.
+:mortar_board: I am currently pursuing a [Master's in Computer Science (OMSCS) from Georgia Tech](https://omscs.gatech.edu/).
 
 :heart: I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
 
