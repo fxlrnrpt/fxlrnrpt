@@ -14,4 +14,4 @@
 
 :heart: I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
 
-:mailbox: Stay in touch on [Twitter](https://twitter.com/ai_goncharov) and [LinkedIn](https://www.linkedin.com/in/aigoncharov/). Drop me a DM on [Matrix](https://matrix.org/) - @andrey:goncharov.ai.
+:mailbox: Stay in touch on [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), and [Instagram](https://www.instagram.com/aigoncharov/). Drop me a DM on [Matrix](https://matrix.org/) - @andrey:goncharov.ai.
