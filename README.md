@@ -10,8 +10,12 @@
 
 :microphone: Occasionally, I [speak at conferences](https://github.com/aigoncharov/talks).
 
+:uk: I help people [get their Global Talent visas](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals).
+
 :mortar_board: I am currently pursuing a [Master's in Computer Science (OMSCS) from Georgia Tech](https://omscs.gatech.edu/).
 
 :heart: I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
 
 :mailbox: Stay in touch on [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), and [Instagram](https://www.instagram.com/aigoncharov/). Drop me a DM on [Matrix](https://matrix.org/) - @andrey:goncharov.ai.
+
+:mage: [Buy me a coffee](https://www.buymeacoffee.com/aigoncharov) to support my endeavours!
