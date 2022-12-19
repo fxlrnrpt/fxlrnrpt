@@ -16,4 +16,4 @@
 
 :heart: I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
 
-:mailbox: Stay in touch on [Mastodon](https://hachyderm.io/@aigoncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Twitter](https://twitter.com/ai_goncharov), [Telegram](https://t.me/aigoncharov_vs_world), [newsletter](https://blog.goncharov.ai/newsletter).
+:mailbox: Stay in touch! [Mastodon](https://hachyderm.io/@aigoncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Twitter](https://twitter.com/ai_goncharov), [Telegram](https://t.me/aigoncharov_vs_world), [newsletter](https://blog.goncharov.ai/newsletter).
