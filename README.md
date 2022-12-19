@@ -4,7 +4,7 @@
 
 > G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
 
-:briefcase: Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) :arrow_right: Headed front-end at [Hazelcast](https://hazelcast.com/) :arrow_right: Tried to squeeze the most out of React at [Bricks](https://www.thebricks.com/) :arrow_right: Full-time maintainer of [Flipper](https://fbflipper.com/) at [Meta](https://www.meta.com).
+:briefcase: Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) :arrow_right: Headed front-end at [Hazelcast](https://hazelcast.com/) :arrow_right: Tried to squeeze the most out of React at [Bricks](https://www.thebricks.com/) :arrow_right: Enhancing DevX of mobile devs at [Meta](https://www.meta.com).
 
 :memo: I write about tech in my [small blog](https://blog.goncharov.ai/). 
 
