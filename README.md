@@ -6,7 +6,7 @@
 
 :briefcase: Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) :arrow_right: Headed front-end at [Hazelcast](https://hazelcast.com/) :arrow_right: Tried to squeeze the most out of React at [Bricks](https://www.thebricks.com/) :arrow_right: Enhancing DevX of mobile devs at [Meta](https://www.meta.com).
 
-:memo: I write about tech in my [small blog](https://blog.goncharov.ai/). 
+:memo: I am writing a [book about the history of frontend](https://frontendhistory.dev/). I also occasionally [blog about tech](https://blog.goncharov.ai/). 
 
 :microphone: Occasionally, I [speak at conferences](https://github.com/aigoncharov/talks).
 
