@@ -1,8 +1,10 @@
 # Hi there 👋
 
-:information_source: My name is Andrey G. I am a software engineer switching to AI/ML. Interested in research. Fascinated by math, statistics, and physics. Currently residing in London, UK.
+:information_source: My name is Andrey G. I am a software engineer switching to AI/ML. Interested in research. Fascinated by math, statistics, and physics.
 
 > G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
+
+:pushpin: London, UK
 
 :briefcase: Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) :arrow_right: Headed front-end at [Hazelcast](https://hazelcast.com/) :arrow_right: Tried to squeeze the most out of React at [Bricks](https://www.thebricks.com/) :arrow_right: Enhancing DevX for mobile devs at [Meta](https://www.meta.com).
 
