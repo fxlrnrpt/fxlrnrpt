@@ -1,6 +1,6 @@
 # Hi there 👋
 
-:information_source: My name is Andrey G. I am a software engineer switching to AI/ML. Interested in research. Fascinated by math, statistics, and physics.
+:information_source: My name is Andrey G. I am a software engineer hypnotized by AI/ML. Interested in research. Fascinated by math, statistics, and physics.
 
 > G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
 
