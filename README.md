@@ -20,4 +20,4 @@
 
 :heart: Math, physics, stonks :chart_with_downwards_trend:, philosophy, poetry, music, Tostoy and Dostoevsky, proper adventure, weightlifting, boxing, cycling, hiking, snowboarding.
 
-:mailbox: [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Twitter](https://twitter.com/ai_goncharov), [Instagram](https://www.instagram.com/aigoncharov/), [Telegram](https://t.me/aigoncharov_vs_world).
+:mailbox: [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Telegram](https://t.me/aigoncharov_vs_world).
