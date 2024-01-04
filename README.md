@@ -1,23 +1,19 @@
 # Hi there 👋
 
-:information_source: My name is Andrey G. I am a software engineer hypnotized by AI/ML. Fascinated by math, statistics, and physics.
+ℹ️ My name is Andrey. [Rockstar wannabe](https://www.youtube.com/watch?v=6idmqeYCgAo) -> software engineer at Meta hypnotized by AI/ML.
 
-> G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
+📌 London, UK. [UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals).
 
-:pushpin: London, UK
+💼 Blockchain, web, and a bit of embedded at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) ➡️ Headed front-end at [Hazelcast](https://hazelcast.com/) ➡️ Worked on web perf and WASM integration at [Bricks](https://www.thebricks.com/) ➡️ Enhancing DevX for mobile devs at [Meta](https://www.meta.com/).
 
-:briefcase: TLDR; [Rockstar wannabe xD](https://www.youtube.com/watch?v=6idmqeYCgAo) -> coding monkey at Meta -?> making computers think.
+🎓 Voronezh State University, MSc in Computer Science (2009-2014) -> [Georgia Tech, MSc in Computer Science (2020-2024)](https://blog.goncharov.page/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte).
 
-:briefcase: [LONG VERSION] Blockchain, web, and a bit of embedded at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) :arrow_right: Headed front-end at [Hazelcast](https://hazelcast.com/) :arrow_right: Worked on web perf and WASM integration at [Bricks](https://www.thebricks.com/) :arrow_right: Enhancing DevX for mobile devs at [Meta](https://www.meta.com).
+📝 Blog about life, career, and tech [in English](https://blog.goncharov.page/) and [in Russian](https://t.me/aigoncharov_vs_world).
 
-:memo: Blog [about tech in English](https://blog.goncharov.page/) and [about life in Russian](https://t.me/aigoncharov_vs_world). 
+🎤 Fighting my stage fright [at conferences](https://github.com/aigoncharov/talks). Founded [BeerJS](https://github.com/beerjs/voronezh) in my home town - Voronezh. [Program committee member at Geekle](https://docs.google.com/spreadsheets/d/1G1KiWarMH9J1rRToRJFnbTwyOcwOXU056g0INIkT4_w/edit?usp=sharing).
 
-:microphone: Occasional [speaker](https://github.com/aigoncharov/talks) and [conference program committee member](https://docs.google.com/spreadsheets/d/1G1KiWarMH9J1rRToRJFnbTwyOcwOXU056g0INIkT4_w/edit?usp=sharing).
+📚 Running book clubs on [Russian classical lit](https://t.me/+uAc-NfRcFfA0YjRk) and [philosophy](https://t.me/+pl4l6juBvLI0NGFk) in London.
 
-:uk: I help people [get their Global Talent visas](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals).
+❤️ Philosophy, music (🥁 -> 🎹+🎙), Tostoy and Dostoevsky, Yesenin, weightlifting (ask me for a guest pass to Third Space 😉), boxing, cycling, hiking, snowboarding.
 
-:mortar_board: Getting my [Master's in Computer Science (OMSCS) from Georgia Tech](https://omscs.gatech.edu/). 
-
-:heart: Math, physics, stonks :chart_with_downwards_trend:, philosophy, poetry, music, Tostoy and Dostoevsky, proper adventure, weightlifting, boxing, cycling, hiking, snowboarding.
-
-:mailbox: [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Telegram](https://t.me/aigoncharov_vs_world).
+📫 [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Telegram](https://t.me/aigoncharov_vs_world).
