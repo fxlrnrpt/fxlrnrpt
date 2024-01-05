@@ -14,6 +14,6 @@
 
 📚 Running book clubs on [Russian classical lit](https://t.me/+uAc-NfRcFfA0YjRk) and [philosophy](https://t.me/+pl4l6juBvLI0NGFk) in London.
 
-❤️ Philosophy, music (🥁 -> 🎹+🎙), Tostoy and Dostoevsky, Yesenin, weightlifting (ask me for a guest pass to Third Space 😉), boxing, cycling, hiking, snowboarding.
+❤️ Philosophy, music (🥁 -> 🎹+🎙), Tostoy and Dostoevsky, Yesenin, weightlifting, boxing, cycling, hiking, snowboarding.
 
 📫 [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Telegram](https://t.me/aigoncharov_vs_world).
