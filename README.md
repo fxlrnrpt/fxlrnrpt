@@ -16,4 +16,4 @@
 
 ❤️ Philosophy, music (🥁 -> 🎹+🎙), Tostoy and Dostoevsky, Yesenin, weightlifting, boxing, cycling, hiking, snowboarding.
 
-📫 [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Telegram](https://t.me/aigoncharov).
+📫 [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Telegram](https://t.me/aigoncharov), [Twitter](https://twitter.com/ai_goncharov), [Threads](https://www.threads.net/@aigoncharov).
