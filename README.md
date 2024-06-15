@@ -1,6 +1,6 @@
 # Hi there 👋
 
-ℹ️ My name is Andrey. [Rockstar wannabe](https://www.youtube.com/watch?v=6idmqeYCgAo) -> software engineer at Meta hypnotized by AI.
+ℹ️ My name is Andrey. [Rockstar wannabe](https://youtu.be/I3CXfILmnzA?si=G-foqGD_SlZ5ZiUu) -> software engineer at Meta hypnotized by AI.
 
 📌 London, UK. [UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals).
 
