@@ -4,9 +4,9 @@
 
 📌 Voronezh 🇷🇺 -> London 🇬🇧 -> Moscow 🇷🇺. [UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals).
 
-💼 Blockchain, web, and a bit of embedded at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) ➡️ Headed front-end at [Hazelcast](https://hazelcast.com/) ➡️ Worked on web perf and WASM integration at [Bricks](https://www.thebricks.com/) ➡️ Enhancing DevX for mobile devs at [Meta](https://www.meta.com/) ➡️ JS-infra and PRE for Messenger at [Meta](https://www.meta.com/) ➡️ ML-padawan at [Skoltech](https://new.skoltech.ru/programs/msc-data-sciences).
+💼 Blockchain, web, and a bit of embedded at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) ➡️ Headed front-end at [Hazelcast](https://hazelcast.com/) ➡️ Worked on web perf and WASM integration at [Bricks](https://www.thebricks.com/) ➡️ Enhancing DevX for mobile devs at [Meta](https://www.meta.com/) ➡️ JS-infra and PRE for Messenger at [Meta](https://www.meta.com/) ➡️ ML-padawan at [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
 
-🎓 Voronezh State University -> [Georgia Tech](https://blog.goncharov.page/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/programs/msc-data-sciences).
+🎓 Voronezh State University -> [Georgia Tech](https://blog.goncharov.page/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
 
 📝 Blog about life, career, and tech [in English](https://blog.goncharov.page/) and [in Russian](https://t.me/aigoncharov_vs_world).
 
