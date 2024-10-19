@@ -1,6 +1,6 @@
 # Hi there 👋
 
-ℹ️ My name is Andrey. [Rockstar wannabe](https://shor.by/notsoalive) -> coding monkey at Meta -> ML-padawan at Skoltech.
+ℹ️ My name is Andrey. [Rockstar wannabe](https://notsoalive.goncharov.page/) -> coding monkey at Meta -> ML-padawan at Skoltech.
 
 📌 Voronezh 🇷🇺 -> London 🇬🇧 -> Moscow 🇷🇺. [UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals).
 
