@@ -4,7 +4,7 @@
 
 🧪 Research interests are in the "philosophy" of DL. Eager to learn why DL models are the way they are (think emergent abilities, alignment, uncertainty and complexity estimation and etc). On the other hand, as an ex-performance engineer I could never resist a good puzzle on trying to make systems fast and efficient. 
 
-💼 ML-padawan at [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences): uncertainty and complexity estimation in LLMs. ([CV](https://docs.google.com/document/d/1XOPOuU7BywW5sn18I4Q676SVC58QBSWAomjiRAyZt4Y/edit?usp=sharing))     
+💼 ML-padawan at [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences): uncertainty and complexity estimation in LLMs. ([CV](https://goncharov.page/cv))     
 <ins>In previous episodes</ins>: Blockchain, web, and a bit of embedded at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) -> Headed front-end at [Hazelcast](https://hazelcast.com/) -> Worked on web perf and WASM integration at [Bricks](https://www.thebricks.com/) -> Enhancing DevX for mobile devs at [Meta](https://www.meta.com/) -> JS core and Performance & Reliability for Messenger at [Meta](https://www.meta.com/).
 
 🎓 Voronezh State University -> [Georgia Tech](https://blog.goncharov.page/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
