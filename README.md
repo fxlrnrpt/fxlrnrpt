@@ -15,6 +15,6 @@
 
 🎤 Fighting my stage fright [at conferences](https://github.com/aigoncharov/talks). Founded [BeerJS](https://github.com/beerjs/voronezh) in my home town - Voronezh. [Occasional program committee member](https://docs.google.com/spreadsheets/d/1G1KiWarMH9J1rRToRJFnbTwyOcwOXU056g0INIkT4_w/edit?usp=sharing).
 
-❤️ Music (🥁 -> 🎹+🎙), Tolstoy and Dostoevsky, philosophy, sports 🏋🥊🚴🏃🏂, hiking 🏔⛺, self-hosting and open-source software.
+❤️ Sports & outdoors 🏋🥊🚴🏃🏂🏔⛺, a bit of classical lit & philosophy, a bit of music, self-hosting & open-source software.
 
 📫 [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Twitter](https://twitter.com/ai_goncharov), [Telegram](https://t.me/aigoncharov), [email](mailto:andrey@goncharov.page).
