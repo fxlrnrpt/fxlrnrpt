@@ -9,13 +9,11 @@
 
 🎓 Voronezh State University -> [Georgia Tech](https://blog.goncharov.page/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
 
-📌 London 🇬🇧 ([UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals)).     
-<ins>In previous episodes</ins>: Voronezh 🇷🇺, Moscow 🇷🇺. 
-
-📝 Blog about life, career, and tech [in English](https://blog.goncharov.page/) and [in Russian](https://t.me/aigoncharov_vs_world).
-
-🎤 Fighting my stage fright [at conferences](https://github.com/aigoncharov/talks). Founded [BeerJS](https://github.com/beerjs/voronezh) in my home town - Voronezh. [Occasional program committee member](https://docs.google.com/spreadsheets/d/1G1KiWarMH9J1rRToRJFnbTwyOcwOXU056g0INIkT4_w/edit?usp=sharing).
+🎉 Blog about life, career, and tech [in English](https://blog.goncharov.page/) and [in Russian](https://t.me/aigoncharov_vs_world). Running an [ML study group](https://mlmisfits.org/). Fighting my stage fright [at conferences](https://github.com/aigoncharov/talks). Founded [BeerJS](https://github.com/beerjs/voronezh) in my home town - Voronezh. [Occasional program committee member](https://docs.google.com/spreadsheets/d/1G1KiWarMH9J1rRToRJFnbTwyOcwOXU056g0INIkT4_w/edit?usp=sharing).
 
 ❤️ Sports & outdoors 🏋🥊🚴🏃🏂🏔⛺, a bit of classical lit & philosophy, a bit of music, self-hosting & open-source software.
+
+📌 London 🇬🇧 ([UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals)).     
+<ins>In previous episodes</ins>: Voronezh 🇷🇺, Moscow 🇷🇺. 
 
 📫 [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [Instagram](https://www.instagram.com/aigoncharov/), [Twitter](https://twitter.com/ai_goncharov), [Telegram](https://t.me/aigoncharov), [email](mailto:andrey@goncharov.page).
