@@ -9,7 +9,8 @@
 
 🎓 Voronezh State University -> [Georgia Tech](https://blog.goncharov.page/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
 
-📌 Voronezh 🇷🇺 -> London 🇬🇧 -> Moscow 🇷🇺. [UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals).
+📌 London 🇬🇧 ([UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals)).     
+<ins>In previous episodes</ins>: Voronezh 🇷🇺, Moscow 🇷🇺. 
 
 📝 Blog about life, career, and tech [in English](https://blog.goncharov.page/) and [in Russian](https://t.me/aigoncharov_vs_world).
 
