@@ -1,6 +1,6 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. [Rockstar wannabe](https://notsoalive.goncharov.page/) -> coding monkey at Meta -> ML-padawan at Skoltech. 
+ℹ️ My name is Andrey. [Rockstar wannabe](https://notsoalive.goncharov.page/) -> coding monkey at Meta -> ML padawan at Skoltech. 
 
 🧪 Research interests are in the DL/LLM interpretability. Eager to explore why DL models are the way they are for explainability, control and performance gains.
 
