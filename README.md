@@ -1,10 +1,10 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. [Rockstar wannabe](https://notsoalive.goncharov.page/) -> coding monkey at Meta -> ML padawan at Skoltech. 
+ℹ️ My name is Andrey. [Rockstar wannabe](https://notsoalive.goncharov.page/) -> coding monkey at Meta -> ML padawan. 
 
 🧪 Research interests are in the DL/LLM interpretability. Eager to explore why DL models are the way they are for explainability, control and performance gains.
 
-💼 Research Engineer at [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences) ([CV](https://goncharov.page/cv))     
+💼 Research Engineer at Laboratory of Applied Research ([CV](https://goncharov.page/cv))     
 <ins>In previous episodes</ins>: Blockchain, web, and a bit of embedded at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) -> Headed front-end at [Hazelcast](https://hazelcast.com/) -> Worked on web perf and WASM integration at [Bricks](https://www.thebricks.com/) -> Enhancing DevX for mobile devs at [Meta](https://www.meta.com/) -> JS core and Performance & Reliability for Messenger at [Meta](https://www.meta.com/).
 
 🎓 Voronezh State University -> [Georgia Tech](https://blog.goncharov.page/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
