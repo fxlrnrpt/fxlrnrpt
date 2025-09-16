@@ -13,7 +13,7 @@
 
 ❤️ Sports & outdoors 🏋🥊🚴🏃🏂🏔⛺, a bit of classical lit & philosophy, a bit of music, self-hosting & open-source software.
 
-📌 London 🇬🇧 ([UK Global Talent alumni](https://42.goncharov.page/l/uk-global-talent-visa-for-mortals)).     
+📌 London 🇬🇧 ([UK Global Talent alumni](https://github.com/fxlrnrpt/uk-global-talent-visa-guide)).     
 <ins>In previous episodes</ins>: Voronezh 🇷🇺, Moscow 🇷🇺. 
 
 📫 [LinkedIn](https://www.linkedin.com/in/faillearnrepeat/), [Instagram](https://www.instagram.com/fxlrnrpt/), [Twitter](https://twitter.com/fxlrnrpt), [Telegram](https://t.me/fxlrnrpt), [email](mailto:andrey@faillearnrepeat.net).
