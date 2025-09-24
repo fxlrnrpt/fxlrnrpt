@@ -4,7 +4,7 @@
 
 🧪 Research interests are in the applied interpretability and post-training. Eager to explore why models are the way they are for control and performance gains.
 
-💼 Applied Scientist Intern at [Mistal](mistral.ai) ([CV](https://faillearnrepeat.net/cv))     
+💼 Applied Scientist Intern at [Mistral](mistral.ai) ([CV](https://faillearnrepeat.net/cv))     
 <ins>In previous episodes</ins>: Web, blockchain and a bit of embedded at software consultancies -> Headed front-end and worked on web perf at startups -> DevX and tooling at Meta -> Research Engineer at Skoltech.
 
 🎓 Voronezh State University -> [Georgia Tech](https://blog.faillearnrepeat.net/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
