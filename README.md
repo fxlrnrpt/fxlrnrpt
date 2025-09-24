@@ -1,11 +1,11 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. [Rockstar wannabe](https://notsoalive.faillearnrepeat.net/) -> coding monkey at Meta -> ML padawan at Skoltech. 
+ℹ️ My name is Andrey. [Rockstar wannabe](https://notsoalive.faillearnrepeat.net/) -> coding monkey at Meta -> AI research padawan at Mistral. 
 
-🧪 Research interests are in the DL/LLM interpretability. Eager to explore why DL models are the way they are for explainability, control and performance gains.
+🧪 Research interests are in the applied interpretability and post-training. Eager to explore why models are the way they are for control and performance gains.
 
-💼 Research Engineer at Skoltech ([CV](https://faillearnrepeat.net/cv))     
-<ins>In previous episodes</ins>: Blockchain, web, and a bit of embedded at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/)) -> Headed front-end at [Hazelcast](https://hazelcast.com/) -> Worked on web perf and WASM integration at [Bricks](https://www.thebricks.com/) -> Enhancing DevX for mobile devs at [Meta](https://www.meta.com/) -> JS core and Performance & Reliability for Messenger at [Meta](https://www.meta.com/).
+💼 Applied Scientist Intern at [Mistal](mistral.ai) ([CV](https://faillearnrepeat.net/cv))     
+<ins>In previous episodes</ins>: Web, blockchain and a bit of embedded at software consultancies -> Headed front-end and worked on web perf at startups -> DevX and tooling at Meta -> Research Engineer at Skoltech.
 
 🎓 Voronezh State University -> [Georgia Tech](https://blog.faillearnrepeat.net/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
 
