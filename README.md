@@ -1,6 +1,6 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. AI research padawan, coding monkey, [rockstar wannabe](https://notsoalive.faillearnrepeat.net/).
+ℹ️ My name is Andrey. AI research padawan, coding monkey, [rock star wannabe](https://notsoalive.faillearnrepeat.net/).
 
 🧪 Research interests are in the applied interpretability and post-training. Eager to explore why models are the way they are for control and performance gains.
 
