@@ -1,11 +1,13 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. AI research padawan, coding monkey, [rock star wannabe](https://notsoalive.faillearnrepeat.net/).
+ℹ️ My name is Andrey. ML researcher and engineer. Rock star wannabe. Proudly failing at both.
 
 🧪 Research interests are in the applied interpretability and post-training. Eager to explore why models are the way they are for control and performance gains.
 
 💼 Applied Scientist at [Mistral](https://mistral.ai/) ([CV](https://faillearnrepeat.net/cv))     
-<ins>In previous episodes</ins>: Web, blockchain and a bit of embedded at software consultancies -> Headed front-end and worked on web perf at startups -> DevX and tooling at Meta -> Research Engineer at Skoltech.
+<ins>In previous episodes</ins>: DevX and tooling at Meta, web perf and tech lead at startups and consultancies.
+
+🎵 In 2024 released an [EP](https://notsoalive.faillearnrepeat.net/) recorded almost 10 years ago with a friend
 
 🎓 Voronezh State University -> [Georgia Tech](https://blog.faillearnrepeat.net/how-to-get-an-online-masters-in-cs-for-a-price-of-your-morning-latte) -> [Skoltech](https://new.skoltech.ru/en/programs/msc-data-sciences).
 
