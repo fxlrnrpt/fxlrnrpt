@@ -13,7 +13,7 @@ Research interests are in the applied interpretability and post-training. Eager 
 
 ❤️ Music, books & ~~existential dread~~philosophy, aports & outdoors 🏋🥊🚴🏃🏂🏔⛺, open-source software & decomposing engineering puzzles.
 
-🎉 Fun facts: lived in a recording studio inside a former bomb shelter (and even owned a tiny part of it), studied at a college of music twice—and dropped out twice as well, have three tattoos quoting Dostoevsky in one way or another, always follow the irrational urge to put a piano in every place I call home, hold two MSc degrees in tech (anything to dodge the real work), for a long time, my bench was bigger than my squat (yes, I’m looking at you with shame).
+🎉 Fun facts: lived in a recording studio inside a former bomb shelter (and even owned a tiny part of it), studied at a college of music twice (dropped out twice as well), have three tattoos quoting Dostoevsky in one way or another, always follow the irrational urge to put a piano in every place I call home, hold two MSc degrees in tech (anything to dodge the real work), for a long time, my bench was bigger than my squat (yes, I’m looking at you with shame).
 
 📌 London 🇬🇧 ([UK Global Talent alumni](https://github.com/fxlrnrpt/uk-global-talent-visa-guide)).     
 <ins>In previous episodes</ins>: Voronezh 🇷🇺, Moscow 🇷🇺. 
