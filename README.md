@@ -1,6 +1,6 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. ML researcher and engineer. Rock star wannabe. Proudly failing at both.
+ℹ️ My name is Andrey. AI research padawan. Rock star wannabe. Proudly failing at both.
 
 💼 Applied Scientist at [Mistral](https://mistral.ai/) ([CV](https://faillearnrepeat.net/cv)). Ex: DevX and tooling at Meta, web perf and tech lead at startups and consultancies.      
 Research interests are in the applied interpretability and post-training. Eager to explore why models are the way they are for control and performance gains.    
