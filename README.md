@@ -1,9 +1,9 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. AI research padawan. Rock star wannabe. Proudly failing at both.
+ℹ️ My name is Andrey. AI research padawan. Engineer at heart. Rock star wannabe. Proudly sharing my failures along the way.
 
-🧪 Applied Scientist at [Mistral](https://mistral.ai/) ([CV](https://faillearnrepeat.net/cv)). Ex: DevX and tooling at Meta, web perf and tech lead at startups and consultancies.      
-Research interests are in the applied interpretability and post-training. Eager to explore why models are the way they are for control and performance gains.    
+🧪 Applied research engineer at [Mistral](https://mistral.ai/) ([CV](https://faillearnrepeat.net/cv)). Ex: DevX and tooling at Meta, web perf and tech lead at startups and consultancies.      
+Bridging research rigor (applied interpretability, post-training) and engineering discipline across ML, infrastructure, and developer experience.    
 
 🎵 In 2024 released an [EP](https://notsoalive.faillearnrepeat.net/) recorded almost 10 years ago with a friend. Composed, wrote lyrics, played drums, did sound production. Now actively learning how to sign to finally have my own voice.
 
