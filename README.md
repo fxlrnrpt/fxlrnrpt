@@ -1,6 +1,6 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. Lifelong AI research padawan, engineer at heart. Rock star wannabe. Sharing my failures along the way.
+ℹ️ My name is Andrey. Lifelong AI research padawan. Engineer at heart. Sharing my failures along the way.
 
 🧪 Applied research engineer at [Mistral](https://mistral.ai/) ([CV](https://faillearnrepeat.net/cv)). Ex: DevX and tooling at Meta, web perf and tech lead at startups and consultancies.      
 Bridging research rigor (applied interpretability, post-training) and engineering discipline across ML, infrastructure, and developer experience.    
