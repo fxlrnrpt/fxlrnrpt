@@ -1,8 +1,8 @@
 # Hello ~~darkness my old friend~~ there 👋
 
-ℹ️ My name is Andrey. AI research padawan. Engineer at heart. Rock star wannabe. Sharing my failures along the way.
+ℹ️ My name is Andrey. Gradient descent believer. Engineer at heart. Rock star wannabe. Sharing my failures along the way.
 
-🧪 Applied research engineer at [Mistral](https://mistral.ai/) ([CV](https://faillearnrepeat.net/cv)). Ex: DevX and tooling at Meta, web perf and tech lead at startups and consultancies.      
+🧪 ML research at Revolut ([CV](https://faillearnrepeat.net/cv)). Ex: Applied Scientist at Mistral, DevX and tooling at Meta, web perf and tech lead at startups and consultancies.      
 Bridging research rigor (applied interpretability, post-training) and engineering discipline across ML, infrastructure, and developer experience.    
 
 🤓 Blog about life, career, and tech [in English](https://blog.faillearnrepeat.net/) and [in Russian](https://t.me/fail_learn_repeat). Fighting my stage fright [at conferences](https://github.com/fxlrnrpt/talks). Founded [BeerJS](https://github.com/beerjs/voronezh) in my home town - Voronezh. [Occasional program committee member](https://docs.google.com/spreadsheets/d/1G1KiWarMH9J1rRToRJFnbTwyOcwOXU056g0INIkT4_w/edit?usp=sharing).
