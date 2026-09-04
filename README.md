@@ -1,7 +1,7 @@
 # Hello ~~darkness my old friend~~ there
 
 My name is Andrey. Gradient descent believer. Engineer at heart.
-Having fun with [ML research puzzles](https://scholar.google.com/citations?user=gVWSh9kAAAAJ) - trying to understand why models are the way they are to make them smarter. Enjoying a bit of storytelling on the side ([blog](https://blog.faillearnrepeat.net/), [talks](https://github.com/fxlrnrpt/talks)).
+Having fun with [ML research puzzles](https://scholar.google.com/citations?user=gVWSh9kAAAAJ) - trying to understand why models are the way they are to make them smarter. Enjoying a bit of storytelling on the side ([blog](https://faillearnrepeat.net/), [talks](https://github.com/fxlrnrpt/talks)).
 
 Fun facts: lived in a recording studio in a former bomb shelter (even [recorded some music](https://music.faillearnrepeat.net/)); have three tattoos quoting Dostoevsky in one way or another; always follow the irrational urge to put a piano in every place I call home.
 
